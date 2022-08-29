@@ -6,6 +6,10 @@
 
 - DSGVO konformer Umgang mit Daten
 - Einwilligung zur Verarbeitung persönlicher Daten soweit erforderlich
+- Moderation
+- nur zugänglich für Mitglieder
+- jeweils voneinander getrennte Bereiche für verschiedene Themen
+- konfigurierbare Benachrichtungen (Erhalt von Informationen sicherstellen und gleichzeitig Spam vermeiden)
 
 ### Wünschenswert
 
