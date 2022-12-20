@@ -2,7 +2,7 @@ Guten Tag zusammen,
 
 vor einiger Zeit haben Sie Interesse an Austausch und Unterstützung zum Thema Inklusion geäußert, insb. zu den Themen Lernschwierigkeiten, Legasthenie und Dyskalkulie.
 
-In den letzten Monaten haben wir die ersten Schritte zum Aufbau eines Angebots in dieser Richtung gemacht. Als digitale Heimat für unsere Initiative "Elternforum Inklusion", hat [Markus Valle-Klann](https://intranet.dsgenf.ch/u/markus/) in Koordination mit der DSG und dem Vorstand des Elternvereins eine Plattform für die DSG aufgesetzt, die unter [intranet.dsgenf.ch](https://intranet.dsgenf.ch) erreichbar ist. Die Plattform wird zurzeit von uns aufgebaut und getestet und soll nach erfolgreichem Einsatz für das Elternforum Inklusion für alle schulischen Themen geöffnet werden.
+In den letzten Monaten haben wir die ersten Schritte zum Aufbau eines Angebots in dieser Richtung gemacht. Als digitale Heimat für unsere Initiative "Elternforum Inklusion", hat [Markus Valle-Klann](https://intranet.dsgenf.ch/u/markus/) in Koordination mit der DSG und dem Vorstand des Schulvereins eine Plattform für die DSG aufgesetzt, die unter [intranet.dsgenf.ch](https://intranet.dsgenf.ch) erreichbar ist. Die Plattform wird zurzeit von uns aufgebaut und getestet und soll nach erfolgreichem Einsatz für das Elternforum Inklusion für alle schulischen Themen geöffnet werden.
 
 Im Intranet der DSG gibt es nun den Raum [Inklusion](https://intranet.dsgenf.ch/s/inklusion/) für unser Elternforum. [Barbara Goedde](https://intranet.dsgenf.ch/u/barbarag/) und [ich](https://intranet.dsgenf.ch/u/schwarzendahl_ulrike%40cat.com/) haben dort auch schon einige Informationen zum Thema eingestellt.
 
